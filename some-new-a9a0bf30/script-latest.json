@@ -1,1 +1,1 @@
-{"ops":[{"insert":"# some new\n\nInitial content for some new things"},{"attributes":{"align":"center"},"insert":"\n"},{"insert":"\nhello oh you there\n"}]}
+{"ops":[{"insert":"# some new\n\nInitial content for some new things"},{"attributes":{"align":"center"},"insert":"\n\n"},{"insert":"g"},{"attributes":{"align":"center"},"insert":"\n"},{"insert":"\nhello oh you there\n"}]}
