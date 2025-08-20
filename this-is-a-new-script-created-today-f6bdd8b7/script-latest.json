@@ -1,1 +1,1 @@
-{"ops":[{"insert":"wen ehT\n"}]}
+{"ops":[{"insert":"wen ehT \nnew "},{"attributes":{"bold":true},"insert":"formatted"},{"insert":"\ntext"},{"attributes":{"align":"center"},"insert":"\n"}]}
